@@ -1,0 +1,5 @@
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.csproj.AssemblyReference.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.AssemblyInfoInputs.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.AssemblyInfo.cs
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.csproj.CoreCompileInputs.cache
