@@ -3,3 +3,14 @@ C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\Com
 C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.AssemblyInfoInputs.cache
 C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.AssemblyInfo.cs
 C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.csproj.CoreCompileInputs.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\CompositionLab.exe
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\CompositionLab.deps.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\CompositionLab.runtimeconfig.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\CompositionLab.runtimeconfig.dev.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\CompositionLab.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\ref\CompositionLab.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\bin\Debug\net5.0\CompositionLab.pdb
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\ref\CompositionLab.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.pdb
+C:\Users\Reidg\OneDrive\Desktop\source\repos\CompositionLab\obj\Debug\net5.0\CompositionLab.genruntimeconfig.cache

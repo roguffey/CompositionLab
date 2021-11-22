@@ -5,9 +5,13 @@ namespace CompositionLab
         string isbn;
 
         string title;
-        public Book(string isbn, string title)
-        {
 
+        private Author author;
+        public Book(string tempIsbn, string tempTitle, Author tempAuthor)
+        {
+            isbn = tempIsbn;
+            title = tempTitle;
+            author = tempAuthor;
         }
 
         public Book()
@@ -20,9 +24,9 @@ namespace CompositionLab
             return isbn;
         }
 
-        public void SetIsbn(string isbn)
+        public void SetIsbn(string tempIsbn)
         {
-            this.isbn = isbn;
+            isbn = tempIsbn;
         }
 
         public string GetTitle()
@@ -30,28 +34,24 @@ namespace CompositionLab
             return title;
         }
 
-        public void SetTitle(string title)
+        public void SetTitle(string tempTitle)
         {
-            this.title = title;
+            title = tempTitle;
         }
 
-        // public string GetAuthor()
-        // {
-        //     Author.GetName();
-        //     Author.GetGender();
-        //     Author.GetEmail();
-        // }
-
-        public void SetAuthor(string name, char gender, string email)
+        public Author GetAuthor()
         {
-            this.name = name;
-            this.gender = gender;
-            this.email = email;
+            return author;
+        }
+
+        public void SetAuthor(Author tempAuthor)
+        {
+            author = tempAuthor;
         }
 
         public override string ToString()
         {
-            return "isbn = " + isbn + ", title = " + title + ", " + Author.ToString();
+            return "isbn = " + this.GetIsbn() + ", title = " + this.GetTitle() + ", " + this.author.ToString();
         }
 
     }

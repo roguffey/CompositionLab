@@ -2,25 +2,32 @@ namespace CompositionLab
 {
     public class Author
     {
-        public Author(string name, char gender, string email)
+        public Author(string tempName, char tempGender, string tempEmail)
+        {
+            name = tempName;
+            gender = tempGender;
+            email = tempEmail;
+        }
+
+        public Author()
         {
 
         }
 
 
-        public string name;
+        private string name;
 
-        public string email;
+        private string email;
 
-        public char gender;
+        private char gender;
 
         public string GetName()
         {
             return name;
         }
-        public void SetName(string name)
+        public void SetName(string tempName)
         {
-            this.name = name;
+            name = tempName;
         }
 
         public string GetEmail()
@@ -28,9 +35,9 @@ namespace CompositionLab
             return email;
         }
 
-        public void SetEmail(string email)
+        public void SetEmail(string tempEmail)
         {
-            this.email = email;
+            email = tempEmail;
         }
 
         public char GetGender()
@@ -38,14 +45,14 @@ namespace CompositionLab
             return gender;
         }
 
-        public void SetGender(char gender)
+        public void SetGender(char tempGender)
         {
-            this.gender = gender;
+            gender = tempGender;
         }
 
         public override string ToString()
         {
-            return "Name: " + name + ", gender: " + gender + ", email: " + email;
+            return "Name: " + this.GetName() + ", email: " + this.GetEmail() + ", gender: " + this.GetGender() + "\n";
         }
     }
 }
